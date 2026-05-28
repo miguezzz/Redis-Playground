@@ -1,0 +1,5 @@
+users:
+  victor:
+    name: Victor
+    email: dev@victormz.com.br
+    password: $digital123

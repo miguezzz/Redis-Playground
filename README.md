@@ -10,7 +10,7 @@ Não é template de produção: é um sandbox pequeno onde cada decisão (TTL, c
 |---|---|
 | Backend | NestJS 11 · ioredis · BullMQ · Socket.io |
 | Frontend | React 19 · Vite 6 · socket.io-client |
-| Redis | Hospedado no [Dockploy](https://dockploy.com) |
+| Redis | Hospedado no Dockploy |
 | Observabilidade | Dashboard ao vivo + Bull Board + Redis Streams + Dozzle |
 
 ## O que tem aqui
